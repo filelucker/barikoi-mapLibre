@@ -15,13 +15,13 @@ current location. Use markers and InfoWindow.
 Device location was not used (As it was not clear in thge instruction). I used static latitude = 23.8103, longitude = 90.4125 (For Dhaka). However in real senario would be use device location.
 I also used static distance 1km and limit = 20.
 
-## Add Screen Shot
+## Screenshots
 
 <p align="center">
   <a style="text-decoration:none" area-label="home page map">
-   <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/master/Screenshots/Screenshot_1689429575.png" width="150" height="280" />
+   <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/Screenshots/Screenshot_1689429575.png" width="150" height="280" />
   </a>
   <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/master/Screenshots/Screenshot_1689429604.png" width="150" height="280" />
+    <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/Screenshots/Screenshot_1689429604.png" width="150" height="280" />
   </a>
 </p>
