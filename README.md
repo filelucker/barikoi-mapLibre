@@ -25,3 +25,5 @@ I also used static distance 1km and limit = 20.
     <img src="https://github.com/filelucker/barikoi-mapLibre/-/raw/main/screenshots/Screenshot_1689429604.png" width="150" height="280" />
   </a>
 </p>
+![](screenshots/Screenshot_1689429575.png)
+![](screenshots/Screenshot_1689429604.png)
