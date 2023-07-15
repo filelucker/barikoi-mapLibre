@@ -16,14 +16,7 @@ Device location was not used (As it was not clear in thge instruction). I used s
 I also used static distance 1km and limit = 20.
 
 ## Screenshots
+![Screenshot_1689429575](https://github.com/filelucker/barikoi-mapLibre/assets/25184971/afb8f660-eb4e-456b-8025-3c3f6955d1a0)
+![Screenshot_1689429604](https://github.com/filelucker/barikoi-mapLibre/assets/25184971/eedd61da-b537-423d-ac4e-d1253f889e71)
 
-<p align="center">
-  <a style="text-decoration:none" area-label="home page map">
-   <img src="https://github.com/filelucker/barikoi-mapLibre/-/raw/main/screenshots/Screenshot_1689429575.png" width="150" height="280" />
-  </a>
-  <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://github.com/filelucker/barikoi-mapLibre/-/raw/main/screenshots/Screenshot_1689429604.png" width="150" height="280" />
-  </a>
-</p>
-![](screenshots/Screenshot_1689429575.png)
-![](screenshots/Screenshot_1689429604.png)
+
