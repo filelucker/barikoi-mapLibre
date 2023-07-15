@@ -19,9 +19,9 @@ I also used static distance 1km and limit = 20.
 
 <p align="center">
   <a style="text-decoration:none" area-label="home page map">
-   <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/Screenshots/Screenshot_1689429575.png" width="150" height="280" />
+   <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/screenshots/Screenshot_1689429575.png" width="150" height="280" />
   </a>
   <a style="text-decoration:none" area-label="neararby banks">
-    <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/Screenshots/Screenshot_1689429604.png" width="150" height="280" />
+    <img src="https://gitlab.com/filelucker/barikoi-mapLibre/-/raw/main/screenshots/Screenshot_1689429604.png" width="150" height="280" />
   </a>
 </p>
